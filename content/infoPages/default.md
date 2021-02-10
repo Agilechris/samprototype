@@ -1,8 +1,8 @@
 ---
 template: DefaultPage
 slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+title: synesthetic aesthetic
+featuredImage: https://ucarecdn.com/e8724e47-9343-4e17-87ea-42b5ff64dfb7/
 meta:
   description: test meta description
   title: test meta title
